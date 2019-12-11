@@ -1524,3 +1524,15 @@ section.lazy-placeholder:after {
 .cid-rKhgC1H68p H1 {
   text-align: left;
 }
+.cid-rKiyRJn5lE {
+  background: #ffffff;
+}
+.cid-rKiyRJn5lE .video-block {
+  margin: auto;
+  width: 100% !important;
+}
+@media (max-width: 768px) {
+  .cid-rKiyRJn5lE .video-block {
+    width: 100% !important;
+  }
+}
