@@ -1525,10 +1525,10 @@ section.lazy-placeholder:after {
   text-align: left;
 }
 .cid-rKiBPhgp4a {
-  background: #000000;
+  background: #1f1f1f;
   padding-top: 60px;
   padding-bottom: 60px;
-  background: linear-gradient(0deg, #000000, #232323);
+  background: linear-gradient(0deg, #1f1f1f, #1f1f1f);
 }
 .cid-rKiBPhgp4a .video-block {
   margin: auto;
@@ -1541,5 +1541,5 @@ section.lazy-placeholder:after {
 .cid-rKiBZlj8Jo {
   padding-top: 30px;
   padding-bottom: 30px;
-  background-color: #000000;
+  background-color: #0f0f0f;
 }
