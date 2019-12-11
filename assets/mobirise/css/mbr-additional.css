@@ -1524,23 +1524,11 @@ section.lazy-placeholder:after {
 .cid-rKhgC1H68p H1 {
   text-align: left;
 }
-.cid-rKiyRJn5lE {
-  background: #ffffff;
-}
-.cid-rKiyRJn5lE .video-block {
-  margin: auto;
-  width: 100% !important;
-}
-@media (max-width: 768px) {
-  .cid-rKiyRJn5lE .video-block {
-    width: 100% !important;
-  }
-}
 .cid-rKizcWEFZZ {
-  background: #1f1f1f;
+  background: #212121;
   padding-top: 60px;
   padding-bottom: 60px;
-  background: linear-gradient(0deg, #1f1f1f, #1f1f1f);
+  background: linear-gradient(0deg, #212121, #262626);
 }
 .cid-rKizcWEFZZ .video-block {
   margin: auto;
